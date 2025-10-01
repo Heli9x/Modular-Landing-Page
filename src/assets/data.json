@@ -1,0 +1,167 @@
+[
+    {
+        "type": "navbar",
+        "props": {
+            "CTA": [
+                "calendar_month",
+                "Book a day"
+            ],
+            "about": [
+                "Who we are",
+                "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat quibusdam dignissimos vel accusantium quia quos optio ab voluptatibus eligendi nihil. Totam sapiente ipsa mollitia culpa? Facilis eveniet nulla rem provident!",
+                [
+                    [
+                        "Terms and Conditions",
+                        "demography",
+                        "#"
+                    ],
+                    [
+                        "Legal Policy",
+                        "contract",
+                        "#"
+                    ]
+                ]
+            ],
+            "links": [
+                [
+                    "home",
+                    "Home"
+                ],
+                [
+                    "phone",
+                    "Contact Me"
+                ],
+                [
+                    "calendar_month",
+                    "Reserve"
+                ]
+            ],
+            "title": "H9L"
+        }
+    },
+    {
+        "type": "hero",
+        "props": {
+            "subtext": "On-site and remote support. Free diagnosis and fair, transparent pricing.",
+            "headline": "Fast, Affordable Computer & Software Repairs \u2014 Get Back Online Today"
+        }
+    },
+    {
+        "type": "services",
+        "props": {
+            "services": {
+                "Arat Hamad": [
+                    "Upgrades and Updates",
+                    "update",
+                    "Costs depend on quotations made + service charge of $20-$50",
+                    [
+                        "New OS Update",
+                        "Software Upgrades",
+                        "Hardware Upgrades"
+                    ]
+                ],
+                "Lina Novak": [
+                    "System Diagnosis",
+                    "heart_check",
+                    "Software diagnosis is Free. Hardware diagnosis costs $20.",
+                    [
+                        "Malware Service",
+                        "Protection Insurance",
+                        "Performance and Optimization"
+                    ]
+                ],
+                "David Mensah": [
+                    "Drivers and Setups",
+                    "cycle",
+                    "cost range $50-$80",
+                    [
+                        "Software Installations",
+                        "Custom Setups",
+                        "Hardware Customization"
+                    ]
+                ],
+                "Merlin Veniar": [
+                    "Inquiries",
+                    "task",
+                    "free",
+                    [
+                        "Costs",
+                        "New Stock",
+                        "Schedules"
+                    ]
+                ]
+            }
+        }
+    },
+    {
+        "type": "cta",
+        "props": {
+            "title": "Let's Get in Touch",
+            "buttons": [
+                [
+                    "Tell Us Your Issue",
+                    "email",
+                    "#"
+                ],
+                [
+                    "Book a repair",
+                    "calendar_month",
+                    "#"
+                ]
+            ],
+            "subtitle": "Make a reservation today or tell us what challenges you're facing..."
+        }
+    },
+    {
+        "type": "testimonials",
+        "props": {
+            "intro": "Be assured by our own customers of how we deliver and serve our esteemed clients.",
+            "people": {
+                "Arat Hamad": [
+                    "Consultant",
+                    "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg",
+                    "Repaired my laptop the same day \u2014 professional and affordable."
+                ],
+                "Lina Novak": [
+                    "Freelance Designer",
+                    "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg",
+                    "My computer was running so slow. After the service, it's faster than ever!"
+                ],
+                "David Mensah": [
+                    "Small Business Owner",
+                    "https://images.pexels.com/photos/3184406/pexels-photo-3184406.jpeg",
+                    "Set up my office network and fixed a data recovery issue \u2014 lifesaver."
+                ]
+            }
+        }
+    },
+    {
+        "type": "cat",
+        "props": {
+            "title": "Follow Us",
+            "buttons": [
+                [
+                    "facebook",
+                    "thumbs_up_double",
+                    "#"
+                ],
+                [
+                    "Instagram",
+                    "mobile_chat",
+                    "#"
+                ],
+                [
+                    "Whatsapp",
+                    "add_call",
+                    "#"
+                ],
+                [
+                    "Youtube",
+                    "youtube_activity",
+                    "#"
+                ]
+            ],
+            "subtitle": "Expand the community and stand a chance to get promos and special offers..."
+        }
+    }
+]

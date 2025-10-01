@@ -1,0 +1,38 @@
+.cta{
+    padding: 20px;
+    background-color: white;
+    margin: 0px 0px;
+    background-image: linear-gradient(90deg,rgb(106, 86, 137) 0%, rgb(16, 67, 97) 100%);
+    background-size: cover;
+}
+
+.cta .title{
+    font-size: 1.5rem;
+    color: var(--text-color);
+}
+
+.cta .actions{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 5px;
+}
+
+.cta .actions button{
+    font-weight: 700;
+    background-color: #87a7b030;
+    backdrop-filter: blur(10px);
+    box-shadow: 0 0 2px #0000004d;
+}
+
+.cta button:hover{
+    background-color: white;
+    color: #033340;
+}
+
+.cta .actions button a{
+    color: inherit;
+    text-decoration: none;
+    background-color: transparent;
+}

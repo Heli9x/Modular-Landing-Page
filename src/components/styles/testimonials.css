@@ -1,0 +1,76 @@
+.component-testimonies{
+    padding: 10px 20px;
+}
+
+.component-testimonies .text{
+    text-align: center;
+    color: var(--theme-color);
+}
+
+.component-testimonies .text h3{
+    font-size: 1.5rem;
+    color: var(--theme-color2);
+}
+
+.component-testimonies .cards{
+    min-height: 300px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.component-testimonies .cards .card{
+    height: 230px;
+    width: 120px;
+    color: white;
+    background-color: var(--theme-color2);
+    box-shadow: 0 0 2px #733bdd;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 10px 10px;
+
+}
+
+.component-testimonies .card .profile{
+    min-height: 100px;
+    width: 150px;
+
+    flex-direction: column;
+}
+
+.card .profile .image{
+    overflow: hidden;
+    height: 80px;
+    width: 80px;
+    contain:size;
+    border-radius: 50px;
+    background-color: #333;
+}
+
+.card .profile .image img{
+    height: inherit;
+    width: inherit;
+}
+
+.component-testimonies .card .name{
+    font-weight: 700;
+    margin: 5px 0;
+}
+
+.component-testimonies .card .profession{
+    font-size: .75rem;
+}
+
+.component-testimonies .card .review{
+    text-align: left;
+    font-weight: 500;
+    margin-top: 20px;
+    margin-bottom: 5px;
+    font-size: 0.95rem;
+}
+
+.component-testimonies .card .rating{
+    color: gold;
+}
